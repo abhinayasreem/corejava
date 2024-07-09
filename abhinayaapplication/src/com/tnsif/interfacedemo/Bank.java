@@ -1,0 +1,17 @@
+package com.tnsif.interfacedemo;
+
+public class SBI implements Bank {
+	
+	
+	public float rateofinterest() {
+		return 9.25f;
+		
+	}
+		
+		
+		
+		
+	}
+	
+
+
